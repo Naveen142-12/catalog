@@ -1,0 +1,1023 @@
+{
+  "Id": 722541043,
+  "Name": "Ultra Soft T-Shirt",
+  "IsNew": true,
+  "Number": "ULT-TSHIRT-1001",
+  "Images": [
+    "https://ppt-generator.y-not.com/images/blue.jpg",
+    "https://ppt-generator.y-not.com/images/green.jpg",
+    "https://ppt-generator.y-not.com/images/lavendor.jpg",
+    "https://ppt-generator.y-not.com/images/orange.jpg",
+    "https://ppt-generator.y-not.com/images/purple.jpg",
+    "https://ppt-generator.y-not.com/images/red.jpg",
+    "https://ppt-generator.y-not.com/images/white.jpg",
+    "https://ppt-generator.y-not.com/images/yellow.jpg"
+  ],
+  "ImageUrl": "https://ppt-generator.y-not.com/images/yellow.jpg",
+  "Origin": [
+    "USA"
+  ],
+  "Themes": [
+    "Apparel",
+    "Casual Wear"
+  ],
+  "Variants": [
+    {
+      "Id": 831772509,
+      "Name": "Red-S",
+      "Number": "SKU-963-Da",
+      "Prices": [
+        {
+          "Cost": 9.23,
+          "Price": 18.58,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 8.19,
+          "Price": 19.03,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/red.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 19.68
+      },
+      "Attributes": {
+        "Color": "Red",
+        "Size": "S"
+      },
+      "Description": "Red S T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 774232103,
+      "Name": "Red-M",
+      "Number": "SKU-764-AE",
+      "Prices": [
+        {
+          "Cost": 9.26,
+          "Price": 15.07,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.21,
+          "Price": 19.25,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/red.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 18.58
+      },
+      "Attributes": {
+        "Color": "Red",
+        "Size": "M"
+      },
+      "Description": "Red M T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 825934683,
+      "Name": "Red-L",
+      "Number": "SKU-348-LK",
+      "Prices": [
+        {
+          "Cost": 8.79,
+          "Price": 16.42,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.01,
+          "Price": 15.94,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/red.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 11.35
+      },
+      "Attributes": {
+        "Color": "Red",
+        "Size": "L"
+      },
+      "Description": "Red L T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 775239529,
+      "Name": "Red-XL",
+      "Number": "SKU-452-oY",
+      "Prices": [
+        {
+          "Cost": 9.45,
+          "Price": 18.69,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 8.51,
+          "Price": 19.88,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/red.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 14.05
+      },
+      "Attributes": {
+        "Color": "Red",
+        "Size": "XL"
+      },
+      "Description": "Red XL T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 845740146,
+      "Name": "Blue-S",
+      "Number": "SKU-684-Dg",
+      "Prices": [
+        {
+          "Cost": 9.87,
+          "Price": 16.16,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.36,
+          "Price": 13.12,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/blue.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 15.94
+      },
+      "Attributes": {
+        "Color": "Blue",
+        "Size": "S"
+      },
+      "Description": "Blue S T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 494342241,
+      "Name": "Blue-M",
+      "Number": "SKU-078-bA",
+      "Prices": [
+        {
+          "Cost": 8.85,
+          "Price": 19.32,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.72,
+          "Price": 19.19,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/blue.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 13.7
+      },
+      "Attributes": {
+        "Color": "Blue",
+        "Size": "M"
+      },
+      "Description": "Blue M T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 811730994,
+      "Name": "Blue-L",
+      "Number": "SKU-206-rQ",
+      "Prices": [
+        {
+          "Cost": 9.26,
+          "Price": 19.31,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.44,
+          "Price": 13.51,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/blue.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 12.49
+      },
+      "Attributes": {
+        "Color": "Blue",
+        "Size": "L"
+      },
+      "Description": "Blue L T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 135158934,
+      "Name": "Blue-XL",
+      "Number": "SKU-061-wZ",
+      "Prices": [
+        {
+          "Cost": 8.73,
+          "Price": 18.75,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.84,
+          "Price": 19.75,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/blue.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 17.94
+      },
+      "Attributes": {
+        "Color": "Blue",
+        "Size": "XL"
+      },
+      "Description": "Blue XL T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 63203013,
+      "Name": "Green-S",
+      "Number": "SKU-267-yG",
+      "Prices": [
+        {
+          "Cost": 9.32,
+          "Price": 15.42,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.14,
+          "Price": 18.83,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/green.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 10.65
+      },
+      "Attributes": {
+        "Color": "Green",
+        "Size": "S"
+      },
+      "Description": "Green S T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 638115437,
+      "Name": "Green-M",
+      "Number": "SKU-673-gz",
+      "Prices": [
+        {
+          "Cost": 9.0,
+          "Price": 17.35,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.3,
+          "Price": 17.86,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/green.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 17.62
+      },
+      "Attributes": {
+        "Color": "Green",
+        "Size": "M"
+      },
+      "Description": "Green M T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 456383315,
+      "Name": "Green-L",
+      "Number": "SKU-971-TX",
+      "Prices": [
+        {
+          "Cost": 8.5,
+          "Price": 16.53,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.71,
+          "Price": 13.58,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/green.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 12.71
+      },
+      "Attributes": {
+        "Color": "Green",
+        "Size": "L"
+      },
+      "Description": "Green L T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 441290807,
+      "Name": "Green-XL",
+      "Number": "SKU-485-hG",
+      "Prices": [
+        {
+          "Cost": 9.81,
+          "Price": 24.33,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.88,
+          "Price": 17.86,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/green.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 18.68
+      },
+      "Attributes": {
+        "Color": "Green",
+        "Size": "XL"
+      },
+      "Description": "Green XL T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 304159148,
+      "Name": "Black-S",
+      "Number": "SKU-312-fV",
+      "Prices": [
+        {
+          "Cost": 9.2,
+          "Price": 20.14,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 8.25,
+          "Price": 18.63,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/black.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 19.67
+      },
+      "Attributes": {
+        "Color": "Black",
+        "Size": "S"
+      },
+      "Description": "Black S T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 877431102,
+      "Name": "Black-M",
+      "Number": "SKU-746-CI",
+      "Prices": [
+        {
+          "Cost": 9.84,
+          "Price": 20.56,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.57,
+          "Price": 17.72,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/black.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 16.33
+      },
+      "Attributes": {
+        "Color": "Black",
+        "Size": "M"
+      },
+      "Description": "Black M T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 265910050,
+      "Name": "Black-L",
+      "Number": "SKU-057-Cu",
+      "Prices": [
+        {
+          "Cost": 8.85,
+          "Price": 18.71,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 8.41,
+          "Price": 17.5,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/black.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 12.85
+      },
+      "Attributes": {
+        "Color": "Black",
+        "Size": "L"
+      },
+      "Description": "Black L T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 800394657,
+      "Name": "Black-XL",
+      "Number": "SKU-132-Jt",
+      "Prices": [
+        {
+          "Cost": 8.99,
+          "Price": 16.44,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.8,
+          "Price": 14.34,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/black.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 15.25
+      },
+      "Attributes": {
+        "Color": "Black",
+        "Size": "XL"
+      },
+      "Description": "Black XL T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 192555744,
+      "Name": "White-S",
+      "Number": "SKU-273-ev",
+      "Prices": [
+        {
+          "Cost": 8.79,
+          "Price": 18.27,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 8.61,
+          "Price": 17.8,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/white.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 15.94
+      },
+      "Attributes": {
+        "Color": "White",
+        "Size": "S"
+      },
+      "Description": "White S T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 994470473,
+      "Name": "White-M",
+      "Number": "SKU-338-EO",
+      "Prices": [
+        {
+          "Cost": 8.43,
+          "Price": 24.97,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.6,
+          "Price": 15.19,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/white.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 19.55
+      },
+      "Attributes": {
+        "Color": "White",
+        "Size": "M"
+      },
+      "Description": "White M T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 319499318,
+      "Name": "White-L",
+      "Number": "SKU-973-px",
+      "Prices": [
+        {
+          "Cost": 9.21,
+          "Price": 24.13,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.43,
+          "Price": 13.45,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/white.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 13.54
+      },
+      "Attributes": {
+        "Color": "White",
+        "Size": "L"
+      },
+      "Description": "White L T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    },
+    {
+      "Id": 825909337,
+      "Name": "White-XL",
+      "Number": "SKU-855-Ak",
+      "Prices": [
+        {
+          "Cost": 9.82,
+          "Price": 18.83,
+          "Quantity": {
+            "From": 10,
+            "To": 49
+          },
+          "CurrencyCode": "USD"
+        },
+        {
+          "Cost": 7.98,
+          "Price": 14.71,
+          "Quantity": {
+            "From": 50,
+            "To": 199
+          },
+          "CurrencyCode": "USD"
+        }
+      ],
+      "ImageUrl": "https://ppt-generator.y-not.com/images/white.jpg",
+      "Shipping": {
+        "Dimensions": {
+          "Width": "12",
+          "Height": "2",
+          "Length": "14",
+          "WidthUnit": "Inches",
+          "HeightUnit": "Inches",
+          "LengthUnit": "Inches",
+          "Description": "14\" x 12\" x 2\""
+        },
+        "WeightUnit": "Pounds",
+        "ItemsPerPackage": 25,
+        "WeightPerPackage": 17.02
+      },
+      "Attributes": {
+        "Color": "White",
+        "Size": "XL"
+      },
+      "Description": "White XL T-shirt",
+      "PriceIncludes": "1 color screen print on front"
+    }
+  ],
+  "Supplier": {
+    "Name": "PromoStyle Inc.",
+    "Email": "support@promostyle.com",
+    "Phone": {
+      "Work": "(555) 123-4567"
+    },
+    "AsiNumber": "98765",
+    "Websites": [
+      "https://www.promostyle.com"
+    ]
+  },
+  "Attributes": {
+    "Sizes": [
+      {
+        "Name": "S"
+      },
+      {
+        "Name": "M"
+      },
+      {
+        "Name": "L"
+      },
+      {
+        "Name": "XL"
+      }
+    ],
+    "Colors": [
+      {
+        "Name": "Red"
+      },
+      {
+        "Name": "Blue"
+      },
+      {
+        "Name": "Green"
+      },
+      {
+        "Name": "Black"
+      },
+      {
+        "Name": "White"
+      }
+    ]
+  },
+  "Shipping": {
+    "FOBPoints": [
+      {
+        "Name": "Los Angeles, CA"
+      }
+    ],
+    "Weight": {
+      "Values": [
+        "0.5 lbs"
+      ]
+    },
+    "Dimensions": {
+      "Width": "12",
+      "Height": "2",
+      "Length": "14",
+      "WidthUnit": "Inches",
+      "HeightUnit": "Inches",
+      "LengthUnit": "Inches"
+    },
+    "PackageUnit": "Carton",
+    "ItemsPerPackage": 25,
+    "WeightPerPackage": 15
+  },
+  "Description": "Premium ultra-soft cotton T-shirt for casual and promotional use.",
+  "LowestPrice": {
+    "Price": 13.99,
+    "CurrencyCode": "USD"
+  },
+  "HighestPrice": {
+    "Price": 24.99,
+    "CurrencyCode": "USD"
+  },
+  "UpdateDate": "2025-09-11T14:26:14.922145"
+}
