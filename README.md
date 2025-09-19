@@ -115,7 +115,7 @@ Submit your solution within 48 hours of receiving the assignment.
 ### How to Submit (Choose one):
 
 - Option A: Create a public GitHub repository and share the link
-- Option B: Zip the entire project folder and email it to: [your-email@company.com]
+- Option B: Zip the entire project folder and email it to: Nikhil@y-not.com
 
 ### What to Include
 
