@@ -1,13 +1,70 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React + TS</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Y NOT Catalog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+      
+       <header> Y NOT Catalog</header>
+
+    
+                
+               
+                
+                <div class="product-details">
+                    <div class="product-image">
+                        <img id="dialogImage" src="" alt="Product Image">
+                    </div>
+                    
+                    <div class="product-info">
+                        <h2 id="dialogTitle"></h2>
+                        <p id="dialogDescription"></p>
+                        
+                        <!-- Color Selection -->
+                        <div class="color-selection">
+                            <h3>Select Color:</h3>
+                            <div id="colorOptions" class="color-options">
+                                <!-- Colors will be added here -->
+                            </div>
+                        </div>
+                        
+                        <!-- Size Selection -->
+                        <div class="size-selection">
+                            <h3>Select Size:</h3>
+                            <div id="sizeOptions" class="size-options">
+                                <!-- Sizes will be added here -->
+                            </div>
+                        </div>
+                        
+                        <!-- Quantity Selection -->
+                        <div class="quantity-selector">
+                            <h3>Quantity:</h3>
+                            <div class="quantity-controls">
+                                <button onclick="updateQuantity(-1)">-</button>
+                                <input type="number" id="quantityInput" value="1" min="1" max="100">
+                                <button onclick="updateQuantity(1)">+</button>
+                            </div>
+                        </div>
+                        
+                        <!-- Price Information -->
+                        <div class="price-info">
+                            <p>Price per unit: <span id="unitPrice">$0.00</span></p>
+                            <p class="total-price">Total: <span id="totalPrice">$0.00</span></p>
+                        </div>
+                        
+                        <!-- Purchase Button -->
+                        <button class="purchase-button" onclick="addToCart()">
+                            Add to Cart
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </dialog>
+
+    <script src="script.js"></script>
+</body>
 </html>

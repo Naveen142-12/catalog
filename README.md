@@ -17,14 +17,15 @@ This project evaluates your ability to:
 
 You must use the provided Flask backend.
 
-```bash
+```powershell
 cd backend
-pip install flask
+# (optional) activate your virtualenv
+# .\venv\Scripts\Activate
 python app.py
 ```
 
 The product API will be available at:
-http://localhost:5000/api/products/123456
+http://127.0.0.1:5000/api/products/722541043
 
 ---
 
@@ -42,6 +43,27 @@ npm run dev
 ```
 
 Make sure the frontend can fetch data from the backend on `localhost:5000`.
+
+---
+
+Quick diagnostics
+-----------------
+
+1. Start the backend (PowerShell):
+
+```powershell
+cd E:\Catalog\product-catalog\backend
+python app.py
+```
+
+2. Start the frontend in a separate PowerShell window:
+
+```powershell
+cd E:\Catalog\product-catalog\frontend
+python -m http.server 5500
+```
+
+3. Open http://127.0.0.1:5500 and click the "Run diagnostics" button at the top of the page to test product/variant/pricing endpoints. The diagnostics panel will display statuses and sample results.
 
 ---
 
