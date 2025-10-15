@@ -40,7 +40,7 @@ body {
 }
 
 .product-card {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(236, 0, 0, 0.9);
     border-radius: 10px;
     padding: 0.75rem;
     box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
@@ -108,7 +108,7 @@ body {
     width: 40px;
     height: 40px;
     border: 1px solid #e5e7eb;
-    background: white;
+    background: rgb(172, 2, 2);
     border-radius: 8px;
     cursor: pointer;
     font-size: 20px;
@@ -190,6 +190,18 @@ body {
 
 .total-amount {
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 200;
     color: #2563eb;
+}
+header {
+    background-color: #88aeff;
+    padding: 15px 25px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* center both logo and text */
+    gap: 10px;
 }
