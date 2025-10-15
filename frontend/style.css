@@ -25,7 +25,7 @@ body {
 }
 
 .product-card {
-    background: #ffffff;
+    background: #760f0f;
     border-radius: 10px;
     padding: 1rem;
     box-shadow: 0 6px 18px rgba(16,24,40,0.06);
@@ -491,6 +491,20 @@ body {
     color: #ef4444;
     font-size: 18px;
 }
+
+header {
+    background-color: #758fc7;
+    padding: 15px 25px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* center both logo and text */
+    gap: 10px;
+}
+
 
 @media (max-width: 968px) {
     .product-main {
